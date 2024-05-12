@@ -106,7 +106,7 @@ const Home = () => {
       <div
         className="full-height-section background-section scroll-animation"
         style={{
-          backgroundImage: `url('src/assets/spaceship-orbits-dark-galaxy-glowing-blue-comet-generated-by-ai.jpg')`,
+          backgroundImage: `url('/spaceship-orbits-dark-galaxy-glowing-blue-comet-generated-by-ai.jpg')`,
         }} // Replace with the path to your background image
       >
         <div
@@ -220,7 +220,7 @@ const Home = () => {
                   style={{ display: "flex", justifyContent: "center" }}
                 >
                   <img
-                    src={"src/assets/Reflections_APOD1200.jpg"}
+                    src={"/Reflections_APOD1200.jpg"}
                     style={{
                       maxWidth: "100%",
                       maxHeight: "500px",
@@ -310,7 +310,7 @@ const Home = () => {
                   style={{ display: "flex", justifyContent: "center" }}
                 >
                   <img
-                    src={"src/assets/asteroids.jpg"}
+                    src={"/asteroids.jpg"}
                     style={{
                       maxWidth: "100%",
                       maxHeight: "500px",
@@ -401,7 +401,7 @@ const Home = () => {
                 >
                   <img
                     src={
-                      "src/assets/-methode-times-prod-web-bin-51ff14ce-b07d-11e7-8f75-2b6f1159f66f.jpg"
+                      "/-methode-times-prod-web-bin-51ff14ce-b07d-11e7-8f75-2b6f1159f66f.jpg"
                     }
                     style={{
                       maxWidth: "100%",
