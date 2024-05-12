@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V1F4A3D5)
-
-# IT21479632 - Wijekoon W.M.K.G.S.S.B
+# Orbit
 
 ## Application Setup
 ## Pre-requisites
@@ -30,13 +28,7 @@ npm run build
 ```javascript
 npm run start
 ```
-## test setup
-1. Check out to test branch.
-2. Open a terminal.
-3. Run npm run test command
-```javascript
-npm run test
-```
+
 ## used Nasa Api
 View Api documentaion:[NASA API](https://api.nasa.gov/).
 
@@ -71,6 +63,3 @@ Solution: Use Material UI Image list and pagination to limit the images in one p
 2. Google Firebase
 3. Ant design
 4. NASA Public APIs
-
-
-If you have any concerns: mail: IT21479632@my.sliit.lk
