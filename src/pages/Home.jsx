@@ -223,7 +223,7 @@ const Home = () => {
                     src={"/Reflections_APOD1200.jpg"}
                     style={{
                       maxWidth: "100%",
-                      maxHeight: "450px",
+                      maxHeight: "400px",
                       borderRadius: "10px",
                       boxShadow: "0 4px 8px rgba(0, 0, 0, 0.2)",
                     }}
