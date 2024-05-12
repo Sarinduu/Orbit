@@ -23,7 +23,7 @@ const LayoutPage = () => {
 
   const handleLogout = () => {
     doSignOut().then(() => {
-      navigate("/login");
+      navigate("/");
     });
   };
 

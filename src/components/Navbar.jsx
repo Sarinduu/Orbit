@@ -26,7 +26,7 @@ const Navbar = () => {
 
   const handleLogout = () => {
     doSignOut().then(() => {
-      navigate("/Login");
+      navigate("/");
     });
   };
 
@@ -131,7 +131,7 @@ const Navbar = () => {
                 <Button
                   type="primary"
                   style={{ marginRight: "20px", fontSize: "1.1rem" }}
-                  href="/login"
+                  href="/"
                 >
                   Login
                 </Button>
@@ -233,7 +233,7 @@ export default Navbar;
           <Button
             type="primary"
             style={{ marginRight: "20px", fontSize: "1.1rem" }}
-            href="/login"
+            href="/"
           >
             Login
           </Button>

@@ -93,7 +93,7 @@ const Register = () => {
                     <div style={{ textAlign: 'center' }}>
                         <p>
                             Already have an account?{' '}
-                            <Link to="/login">Login</Link>
+                            <Link to="/">Login</Link>
                         </p>
                     </div>
                 </div>
