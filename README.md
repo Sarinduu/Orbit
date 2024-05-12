@@ -1,5 +1,7 @@
 # Orbit
 
+Host in : https://orbit-beige-seven.vercel.app
+
 ## Application Setup
 ## Pre-requisites
 recommended: make sure you have react install facility installed : 
