@@ -50,7 +50,7 @@ const Navbar = () => {
         style={{
           textDecoration: "none",
           zIndex: "100",
-          width: "100px",
+          width: "120px",
         }}
       >
         <Text
