@@ -58,7 +58,7 @@ const Login = () => {
           backgroundColor: "rgba(0, 0, 0, 0.25)",
           backdropFilter: "blur(5px)",
           WebkitBackdropFilter: "blur(5px)",
-          padding: "80px",
+          padding: "40px",
           borderRadius: "10px",
         }}
       >
