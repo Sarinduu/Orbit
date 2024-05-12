@@ -5,10 +5,6 @@
 recommended: make sure you have react install facility installed : 
 open terminal and run command:
 
-```javascript
-npm install -g create-react-app
-```
-
 ## Installation Setup:
 1. Open the project in VS Code
 2. change the directory to client
