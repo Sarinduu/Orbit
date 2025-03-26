@@ -49,6 +49,9 @@ function App() {
     <>
       <Route path="/" element={<Login />} />
       <Route path="/Register" element={<Register />} />
+      <Route path="/" element={<LayoutPage />}>
+        <Route index element={<Home />} />
+      </Route>
     </>
   ) : (
     <>
